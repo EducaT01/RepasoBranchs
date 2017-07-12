@@ -1,15 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package aplicaciones;
 
 import java.util.Scanner;
 
 /**
  * Clase para el calculo de Combinaciones.
- *
+ * Edito esto para ver como funcan las branches.
+ * tengo q recordar cambiar de branches.
  * @author Cristhian Arevalo
  * @version 1.0
  */
