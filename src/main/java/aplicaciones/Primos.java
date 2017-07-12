@@ -1,14 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package aplicaciones;
 
 import java.util.Scanner;
 
 /**
  * Clase para el calculo de los n numeros primos.
+ * hay muchas cosas wuuuu.
  * @author Cristhian Arevalo
  * @version 1.0
  */
