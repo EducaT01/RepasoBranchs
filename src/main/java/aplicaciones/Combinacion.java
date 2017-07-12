@@ -1,4 +1,6 @@
-
+/**
+ * Cambios en la rama de hotfix
+ */
 package aplicaciones;
 
 import java.util.Scanner;
