@@ -10,6 +10,7 @@ import java.util.Scanner;
 /**
  * Clase para el calculo de Combinaciones.
  * Edito esto para ver como funcan las branches.
+ * tengo q recordar cambiar de branches.
  * @author Cristhian Arevalo
  * @version 1.0
  */
